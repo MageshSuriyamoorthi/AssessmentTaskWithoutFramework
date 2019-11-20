@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29440" started-at="2019-11-20T19:07:40 IST" finished-at="2019-11-20T19:08:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29440" started-at="2019-11-20T19:07:40 IST" finished-at="2019-11-20T19:08:10 IST">
+      <class name="com.atmecs.testscript.TutorialNinja">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:com.atmecs.testscript.TutorialNinja@4493d195]" name="driverInitialization" is-config="true" duration-ms="11323" started-at="2019-11-20T19:07:41 IST" finished-at="2019-11-20T19:07:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="geturl()[pri:0, instance:com.atmecs.testscript.TutorialNinja@4493d195]" name="geturl" is-config="true" duration-ms="3319" started-at="2019-11-20T19:07:52 IST" finished-at="2019-11-20T19:07:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+        <test-method status="PASS" signature="searchProductAndAddingCart()[pri:0, instance:com.atmecs.testscript.TutorialNinja@4493d195]" name="searchProductAndAddingCart" duration-ms="14458" started-at="2019-11-20T19:07:55 IST" finished-at="2019-11-20T19:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductAndAddingCart -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.atmecs.testscript.TutorialNinja@4493d195]" name="driverClose" is-config="true" duration-ms="248" started-at="2019-11-20T19:08:10 IST" finished-at="2019-11-20T19:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.atmecs.testscript.TutorialNinja -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
