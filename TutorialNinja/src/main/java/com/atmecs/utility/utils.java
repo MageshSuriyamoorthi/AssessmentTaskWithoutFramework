@@ -1,6 +1,5 @@
 package com.atmecs.utility;
 
-import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -8,7 +7,7 @@ import org.openqa.selenium.WebElement;
 
 public class utils {
 
-	Logger log = Logger.getLogger(log4j.class.getName());
+	log4j log = new log4j();
 
 	public By locator(String locatorvalue) {
 		By by = null;
@@ -49,7 +48,6 @@ public class utils {
 
 	public void geturl(WebDriver driver, String url) {
 		driver.get(url);
-		log.info("Url has been opened");
 	}
 
 	public void click(WebDriver driver, String locator) {

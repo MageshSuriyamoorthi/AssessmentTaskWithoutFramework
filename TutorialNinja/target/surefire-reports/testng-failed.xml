@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TutorialNinjaSuite (0)]">
+  <test thread-count="5" verbose="0" name="TutorialNinjaTest(failed)">
+    <classes>
+      <class name="com.atmecs.testscript.TutorialNinja">
+        <methods>
+          <include name="searchProductAndAddingCart"/>
+          <include name="driverInitialization"/>
+          <include name="driverClose"/>
+          <include name="geturl"/>
+        </methods>
+      </class> <!-- com.atmecs.testscript.TutorialNinja -->
+    </classes>
+  </test> <!-- TutorialNinjaTest(failed) -->
+</suite> <!-- Failed suite [TutorialNinjaSuite (0)] -->

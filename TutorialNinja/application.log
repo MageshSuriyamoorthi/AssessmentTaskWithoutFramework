@@ -1,0 +1,115 @@
+2019-11-20 20:33:24,450  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:33:24,461  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:33:31,087  INFO [main] log4j:21 - To search product of Iphone has been entered
+2019-11-20 20:33:31,295  INFO [main] log4j:21 - Availability for iphone has been verified
+2019-11-20 20:33:31,471  INFO [main] log4j:21 - Price for iphone has been verified
+2019-11-20 20:33:31,619  INFO [main] log4j:21 - ET Tax for iphone has been verified
+2019-11-20 20:33:31,767  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:33:31,767  INFO [main] log4j:21 - To validating the first product its availability, price, tax and description
+2019-11-20 20:33:31,907  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:33:32,083  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:33:32,451  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:33:32,711  INFO [main] log4j:21 - Clearing the search tab button
+2019-11-20 20:33:35,436  INFO [main] log4j:21 - Entering the second product data in the search box
+2019-11-20 20:33:35,673  INFO [main] log4j:21 - Availability for mac has been verified
+2019-11-20 20:33:35,857  INFO [main] log4j:21 - Price for macBook air has been verified
+2019-11-20 20:33:36,001  INFO [main] log4j:21 - ET Tax for macBook has been verified
+2019-11-20 20:33:36,145  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:33:36,153  INFO [main] log4j:21 - To validating the second product its availability, price, tax and description
+2019-11-20 20:33:36,301  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:33:36,533  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:33:36,700  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:33:37,720  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:33:37,926  INFO [main] log4j:21 - Clicked on cart button
+2019-11-20 20:33:38,054  INFO [main] log4j:21 - Getting actual price of the first product
+2019-11-20 20:33:38,086  INFO [main] log4j:21 - Getting expected price of the first product
+2019-11-20 20:33:38,086  INFO [main] log4j:21 - Overall price of Iphone is validated
+2019-11-20 20:33:38,202  INFO [main] log4j:21 - Getting actual price of the second product
+2019-11-20 20:33:38,234  INFO [main] log4j:21 - Getting expected price of the second product
+2019-11-20 20:33:38,234  INFO [main] log4j:21 - Overall price of MacBook Air is validated
+2019-11-20 20:33:38,362  INFO [main] log4j:21 - Getting actual overall price of the product
+2019-11-20 20:33:38,390  INFO [main] log4j:21 - Getting expected overall price of the product
+2019-11-20 20:33:38,390  INFO [main] log4j:21 - Overall price of two products is validated
+2019-11-20 20:33:38,622  INFO [main] log4j:21 - Clearing the second product
+2019-11-20 20:33:38,738  INFO [main] log4j:21 - Cancelling the second product to get new price
+2019-11-20 20:34:16,694  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:16,702  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:27,519  INFO [main] log4j:21 - To search product of Iphone has been entered
+2019-11-20 20:34:27,687  INFO [main] log4j:21 - Availability for iphone has been verified
+2019-11-20 20:34:27,899  INFO [main] log4j:21 - Price for iphone has been verified
+2019-11-20 20:34:28,071  INFO [main] log4j:21 - ET Tax for iphone has been verified
+2019-11-20 20:34:28,299  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:34:28,303  INFO [main] log4j:21 - To validating the first product its availability, price, tax and description
+2019-11-20 20:34:28,571  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:34:28,855  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:34:29,111  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:34:29,307  INFO [main] log4j:21 - Clearing the search tab button
+2019-11-20 20:34:33,278  INFO [main] log4j:21 - Entering the second product data in the search box
+2019-11-20 20:34:33,775  INFO [main] log4j:21 - Availability for mac has been verified
+2019-11-20 20:34:34,279  INFO [main] log4j:21 - Price for macBook air has been verified
+2019-11-20 20:34:34,411  INFO [main] log4j:21 - ET Tax for macBook has been verified
+2019-11-20 20:34:34,575  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:34:34,575  INFO [main] log4j:21 - To validating the second product its availability, price, tax and description
+2019-11-20 20:34:34,743  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:34:35,007  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:34:35,215  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:34:37,002  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:34:37,338  INFO [main] log4j:21 - Clicked on cart button
+2019-11-20 20:34:37,506  INFO [main] log4j:21 - Getting actual price of the first product
+2019-11-20 20:34:37,534  INFO [main] log4j:21 - Getting expected price of the first product
+2019-11-20 20:34:37,534  INFO [main] log4j:21 - Overall price of Iphone is validated
+2019-11-20 20:34:38,006  INFO [main] log4j:21 - Getting actual price of the second product
+2019-11-20 20:34:38,050  INFO [main] log4j:21 - Getting expected price of the second product
+2019-11-20 20:34:38,050  INFO [main] log4j:21 - Overall price of MacBook Air is validated
+2019-11-20 20:34:38,314  INFO [main] log4j:21 - Getting actual overall price of the product
+2019-11-20 20:34:38,338  INFO [main] log4j:21 - Getting expected overall price of the product
+2019-11-20 20:34:38,338  INFO [main] log4j:21 - Overall price of two products is validated
+2019-11-20 20:34:38,538  INFO [main] log4j:21 - Clearing the second product
+2019-11-20 20:34:39,522  INFO [main] log4j:21 - Cancelling the second product to get new price
+2019-11-20 20:34:40,862  INFO [main] log4j:21 - Clicking the cart button
+2019-11-20 20:34:40,950  INFO [main] log4j:21 - Getting actual overall price of the product
+2019-11-20 20:34:40,994  INFO [main] log4j:21 - Getting expected overall price of the product
+2019-11-20 20:34:40,994  INFO [main] log4j:21 - When MacBook air is deleted the overall price is validated
+2019-11-20 20:34:41,970  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:41,970  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:41,974  INFO [main] log4j:21 - message
+2019-11-20 20:34:42,450  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:42,450  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:34:42,450  INFO [main] log4j:21 - message
+2019-11-20 20:36:35,169  INFO [main] log4j:21 - Url has been opened
+2019-11-20 20:36:41,359  INFO [main] log4j:21 - To search product of Iphone has been entered
+2019-11-20 20:36:41,571  INFO [main] log4j:21 - Availability for iphone has been verified
+2019-11-20 20:36:41,747  INFO [main] log4j:21 - Price for iphone has been verified
+2019-11-20 20:36:41,959  INFO [main] log4j:21 - ET Tax for iphone has been verified
+2019-11-20 20:36:42,135  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:36:42,135  INFO [main] log4j:21 - To validating the first product its availability, price, tax and description
+2019-11-20 20:36:42,339  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:36:42,543  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:36:42,775  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:36:43,115  INFO [main] log4j:21 - Clearing the search tab button
+2019-11-20 20:36:47,530  INFO [main] log4j:21 - Entering the second product data in the search box
+2019-11-20 20:36:47,742  INFO [main] log4j:21 - Availability for mac has been verified
+2019-11-20 20:36:47,882  INFO [main] log4j:21 - Price for macBook air has been verified
+2019-11-20 20:36:48,033  INFO [main] log4j:21 - ET Tax for macBook has been verified
+2019-11-20 20:36:48,157  INFO [main] log4j:21 - Description has been verified
+2019-11-20 20:36:48,157  INFO [main] log4j:21 - To validating the second product its availability, price, tax and description
+2019-11-20 20:36:48,377  INFO [main] log4j:21 - Quantity box has been cleared for entering the number of products that were needed
+2019-11-20 20:36:48,621  INFO [main] log4j:21 - To Enter the amount in the quantity box
+2019-11-20 20:36:48,829  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:36:49,929  INFO [main] log4j:21 - Clicked on add to cart button
+2019-11-20 20:36:50,137  INFO [main] log4j:21 - Clicked on cart button
+2019-11-20 20:36:50,281  INFO [main] log4j:21 - Getting actual price of the first product
+2019-11-20 20:36:50,313  INFO [main] log4j:21 - Getting expected price of the first product
+2019-11-20 20:36:50,313  INFO [main] log4j:21 - Overall price of Iphone is validated
+2019-11-20 20:36:50,453  INFO [main] log4j:21 - Getting actual price of the second product
+2019-11-20 20:36:50,485  INFO [main] log4j:21 - Getting expected price of the second product
+2019-11-20 20:36:50,485  INFO [main] log4j:21 - Overall price of MacBook Air is validated
+2019-11-20 20:36:50,589  INFO [main] log4j:21 - Getting actual overall price of the product
+2019-11-20 20:36:50,617  INFO [main] log4j:21 - Getting expected overall price of the product
+2019-11-20 20:36:50,617  INFO [main] log4j:21 - Overall price of two products is validated
+2019-11-20 20:36:50,801  INFO [main] log4j:21 - Clearing the second product
+2019-11-20 20:36:51,509  INFO [main] log4j:21 - Cancelling the second product to get new price
+2019-11-20 20:36:51,717  INFO [main] log4j:21 - Clicking the cart button
+2019-11-20 20:36:51,833  INFO [main] log4j:21 - Getting actual overall price of the product
+2019-11-20 20:36:51,873  INFO [main] log4j:21 - Getting expected overall price of the product
+2019-11-20 20:36:51,873  INFO [main] log4j:21 - When MacBook air is deleted the overall price is validated

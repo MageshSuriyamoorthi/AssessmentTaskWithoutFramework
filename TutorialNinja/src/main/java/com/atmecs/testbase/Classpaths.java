@@ -19,6 +19,9 @@ public class Classpaths {
 
 	public static String Locator_file = resourceFile + File.separator + "locator" + File.separator
 			+ "TutorialNinja.properties";
+	
+	public static String Log4j_file = resourceFile + File.separator + "log4j" + File.separator
+			+ "log4j.properties";
 
 	public static String TestData_file = resourceFile + File.separator + "testdata" + File.separator + "TutorialNinjaTD.xlsx";
 }

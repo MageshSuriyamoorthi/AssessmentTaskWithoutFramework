@@ -1,6 +1,5 @@
 package com.atmecs.testscript;
 
-import org.apache.log4j.Logger;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -18,7 +17,7 @@ public class TutorialNinja extends TestBase {
 	ValidateHomePageBase base = new ValidateHomePageBase();
 	ExcelReader excelreader = new ExcelReader();
 	AssertionAndValidation assertandvalidate = new AssertionAndValidation();
-	Logger log = Logger.getLogger(log4j.class.getName());
+	log4j log =new log4j(); 
 
 	@BeforeMethod
 	public void geturl() {

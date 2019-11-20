@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TutorialNinjaSuite (0)" duration-ms="33171" started-at="2019-11-20T20:36:18 IST" finished-at="2019-11-20T20:36:52 IST">
+    <groups>
+    </groups>
+    <test name="TutorialNinjaTest" duration-ms="33171" started-at="2019-11-20T20:36:18 IST" finished-at="2019-11-20T20:36:52 IST">
+      <class name="com.atmecs.testscript.TutorialNinja">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:com.atmecs.testscript.TutorialNinja@3224f60b]" name="driverInitialization" is-config="true" duration-ms="12040" started-at="2019-11-20T20:36:18 IST" finished-at="2019-11-20T20:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="geturl()[pri:0, instance:com.atmecs.testscript.TutorialNinja@3224f60b]" name="geturl" is-config="true" duration-ms="4207" started-at="2019-11-20T20:36:30 IST" finished-at="2019-11-20T20:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+        <test-method status="PASS" signature="searchProductAndAddingCart()[pri:0, instance:com.atmecs.testscript.TutorialNinja@3224f60b]" name="searchProductAndAddingCart" duration-ms="16700" started-at="2019-11-20T20:36:35 IST" finished-at="2019-11-20T20:36:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductAndAddingCart -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.atmecs.testscript.TutorialNinja@3224f60b]" name="driverClose" is-config="true" duration-ms="164" started-at="2019-11-20T20:36:51 IST" finished-at="2019-11-20T20:36:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.atmecs.testscript.TutorialNinja -->
+    </test> <!-- TutorialNinjaTest -->
+  </suite> <!-- TutorialNinjaSuite (0) -->
+  <suite name="TutorialNinjaSuite" duration-ms="0" started-at="2019-11-20T20:36:52 IST" finished-at="2019-11-20T20:36:52 IST">
+    <groups>
+    </groups>
+  </suite> <!-- TutorialNinjaSuite -->
+</testng-results>

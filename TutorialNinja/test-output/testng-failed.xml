@@ -3,14 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.testscript.ValidateHomePage">
+      <class name="com.atmecs.testscript.TutorialNinja">
         <methods>
-          <include name="driverInitialization"/>
           <include name="searchProductAndAddingCart"/>
+          <include name="driverInitialization"/>
           <include name="driverClose"/>
+          <include name="seeyaa1"/>
+          <include name="seeyaa"/>
           <include name="geturl"/>
         </methods>
-      </class> <!-- com.atmecs.testscript.ValidateHomePage -->
+      </class> <!-- com.atmecs.testscript.TutorialNinja -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
